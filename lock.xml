@@ -1,0 +1,45 @@
+<root>
+   <name>Locks</name>
+   <key>lock</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/tomolimo/lock/master/plugin.png</logo>
+   <description>
+      <short>
+         <en>Provides a lock mechanism to GLPI items like Ticket, Computer and Reminder.</en>
+      </short>
+      <long>
+         <en>Provides a lock mechanism to GLPI items like Ticket, Computer and Reminder. Please note that this plugin has been integrated into GLPi core since release 9.1, and as such this plugin will no longer be maintained.</en>
+      </long>
+   </description>
+   <homepage>https://github.com/tomolimo/lock</homepage>
+   <download>https://github.com/tomolimo/lock/releases</download>
+   <issues>https://github.com/tomolimo/lock/issues</issues>
+   <readme>https://github.com/tomolimo/lock/blob/master/README.md</readme>
+   <authors>
+      <author>Olivier Moron</author>
+   </authors>
+   <versions>
+      <version>
+         <num>3.1.0</num>
+         <compatibility>9.1+</compatibility>
+      </version>
+      <version>
+         <num>3.2.0</num>
+         <compatibility>9.3+</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>en_GB</lang>
+   </langs>
+   <license>GPL v2+</license>
+   <tags>
+      <en>
+         <tag>Ticket</tag>
+         <tag>Computer</tag>
+         <tag>Reminder</tag>
+      </en>
+   </tags>
+   <screenshots>
+      <screenshot></screenshot>
+   </screenshots>
+</root>
